@@ -1,0 +1,11 @@
+C:\Users\mpct\Documents\SaimaLoginForm\SaimaLoginForm\bin\Debug\SaimaLoginForm.exe.config
+C:\Users\mpct\Documents\SaimaLoginForm\SaimaLoginForm\bin\Debug\SaimaLoginForm.exe
+C:\Users\mpct\Documents\SaimaLoginForm\SaimaLoginForm\bin\Debug\SaimaLoginForm.pdb
+C:\Users\mpct\Documents\SaimaLoginForm\SaimaLoginForm\obj\Debug\SaimaLoginForm.csproj.AssemblyReference.cache
+C:\Users\mpct\Documents\SaimaLoginForm\SaimaLoginForm\obj\Debug\SaimaLoginForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\mpct\Documents\SaimaLoginForm\SaimaLoginForm\obj\Debug\SaimaLoginForm.Properties.Resources.resources
+C:\Users\mpct\Documents\SaimaLoginForm\SaimaLoginForm\obj\Debug\SaimaLoginForm.csproj.GenerateResource.cache
+C:\Users\mpct\Documents\SaimaLoginForm\SaimaLoginForm\obj\Debug\SaimaLoginForm.csproj.CoreCompileInputs.cache
+C:\Users\mpct\Documents\SaimaLoginForm\SaimaLoginForm\obj\Debug\SaimaLoginForm.exe
+C:\Users\mpct\Documents\SaimaLoginForm\SaimaLoginForm\obj\Debug\SaimaLoginForm.pdb
+C:\Users\mpct\Documents\SaimaLoginForm\SaimaLoginForm\obj\Debug\SaimaLoginForm.Login.resources
